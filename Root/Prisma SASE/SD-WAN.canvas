@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"6c43147fdb08e1c0","x":-120,"y":-120,"width":220,"height":100,"color":"5","type":"text","text":"\t- Controller"},
+		{"id":"d9db5799c5055439","x":-280,"y":117,"width":138,"height":53,"color":"6","type":"text","text":"Node 1\n"},
+		{"id":"4ddc52824b1bb408","x":-142,"y":240,"width":120,"height":50,"color":"4","type":"text","text":"Node 2"},
+		{"id":"34222983d2af06c8","x":-40,"y":89,"width":125,"height":57,"color":"2","type":"text","text":"Node 3"},
+		{"id":"d9cf30cb27ec241a","x":-207,"y":-480,"width":292,"height":159,"type":"text","text":"Metrics\n- Packet loss\n- Latency\n- Jitter\n- Congestion"},
+		{"id":"486089cd8d1801f8","x":-332,"y":-800,"width":432,"height":200,"type":"text","text":"Multiple Network Types/Hybrid Network Design\n\n- Direct less important traffic down broadband connections to conserve bandwidth\n- Can use MPLS to direct high priority traffic"}
+	],
+	"edges":[
+		{"id":"8d079b6baf76e9fc","fromNode":"6c43147fdb08e1c0","fromSide":"bottom","toNode":"d9db5799c5055439","toSide":"top"},
+		{"id":"3196d52c449c1425","fromNode":"d9db5799c5055439","fromSide":"bottom","toNode":"4ddc52824b1bb408","toSide":"top"},
+		{"id":"d8462c8baff0c5d8","fromNode":"34222983d2af06c8","fromSide":"left","toNode":"d9db5799c5055439","toSide":"right"},
+		{"id":"4c607d0b6ff65198","fromNode":"4ddc52824b1bb408","fromSide":"right","toNode":"34222983d2af06c8","toSide":"bottom"},
+		{"id":"6ce35d7eb1d9c6a0","fromNode":"34222983d2af06c8","fromSide":"bottom","toNode":"4ddc52824b1bb408","toSide":"right"},
+		{"id":"bd37390e42a2d2f3","fromNode":"d9db5799c5055439","fromSide":"right","toNode":"34222983d2af06c8","toSide":"left"},
+		{"id":"be4e8715121a11a0","fromNode":"4ddc52824b1bb408","fromSide":"top","toNode":"d9db5799c5055439","toSide":"bottom"},
+		{"id":"b21142c5b6646114","fromNode":"d9cf30cb27ec241a","fromSide":"bottom","toNode":"6c43147fdb08e1c0","toSide":"top"}
+	]
+}

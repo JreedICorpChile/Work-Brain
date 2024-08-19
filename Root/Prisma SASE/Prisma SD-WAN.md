@@ -63,3 +63,106 @@ This is the network portion of the [[Prisma SASE]] offering, including things li
 		- Captures data for performance visibility
 
 	- [[CloudBlades]]
+
+
+### How does Prisma SD-WAN help? 
+
+- The value proposition of Prisma SD-WAN is wide ranging but some examples include:
+	- Increased network bandwidth
+	- Decreased help desk tickets
+
+
+----
+
+## How does Prisma SD-WAN work?
+
+
+- Traditional WAN architectures are composed of the **Control plane** and the **Data plane**. 
+
+	- The Control plane exists to make networking routing decisions.
+	- The Data plane exists to pass the traffic rapidly. 
+
+- SD-WAN is made up of two components. 
+
+	- SD-WAN devices are the Data plane
+	- The Central controller is the control plane. 
+
+
+The central controller is software based and usually based in the cloud, it is also where Policy decisions are made, traffic prioritization is decided and where SLAs (Service Level Agreements) are implemented. 
+
+
+A service-level agreement (SLA) is an agreement between a service provider and a customer. Particular aspects of the service – quality, availability, responsibilities – are agreed between the service provider and said customer. 
+
+
+The SD-WAN devices are physical or virtual by nature, and usually placed at an ORGs branch offices. The controller is the crucial part. It looks at the performance of the entire network and adjusts accordingly. 
+
+
+--- 
+
+# Simple Management Interface
+
+-  Centralized Controls
+- ZTP (Zero Touch Provisioning)
+- Reports
+- Alerts
+- System Integration
+
+# VPN/3rd Party Integration
+
+- VPNs are a core func of SD-WANs
+- IPSEC VPN integration
+- Additions
+	- Optimization
+	- Orchestration
+	- AI
+	- Analytics
+	- Cloud Integrations
+
+
+# Summarizing Prisma SD-WAN
+
+### First and foremost Prisma SD-WAN is autonomous.
+
+- Control Plane
+	- Cloud Management Portal; Responsible for:
+		- configuration
+		- monitoring
+		- management
+
+	- ION devices have an analytics mode:
+		- Monitors network traffic
+		- Forwards the network traffic to the Cloud Management Portal
+		- The Portal then sets policy and SLA thresholds using ML
+
+
+---
+
+
+
+- Data Plane
+	- Instant-On Network Appliances
+
+		- The Devices capture Application level data including:
+			- fingerprints
+			- transaction time
+			- reachability
+			- response
+			- mean opinion scores
+
+		- Physical 
+			- 
+		- Virtual
+			- ESXI
+			- KVM
+			- HyperV
+
+	- Provides Network Metrics
+		- loss
+		- latency
+		- jitter
+
+The Application data and Network metrics are combined using Prisma SD-WAN in real time to make real time network routing decisions.
+
+All this combines into intelligent path selections and continual optimization. 
+
+Finally SD-WAN brings in [[CloudBlades]] as a scalable API platform to simplify programming integration with cloud services. 
