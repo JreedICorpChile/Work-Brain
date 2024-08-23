@@ -39,3 +39,51 @@ There are 5 key principles we talk about when communicating the benefits of [[ZT
       
 	- **Mobile User & Branch:** When a customer purchases one license of this bundle they get both one user license and 1 Mbps bandwidth for branch.
 
+
+
+### "What core security capabilities do you need?"
+
+
+|                                                   |     Business     | Business Premium |                   ZTNA                    |                Enterprise                 |
+| :-----------------------------------------------: | :--------------: | :--------------: | :---------------------------------------: | :---------------------------------------: |
+|                 Internet Security                 |        ✔         |        ✔         |                     ✔                     |                     ✔                     |
+|   Access to Private Apps via Service Connection   | Add-on available | Add-on available |                     ✔                     |                     ✔                     |
+| No. of Service Connections for Private App Access | Add-on available | Add-on available | 2 w/ Local Edition 5 w/ Worldwide Edition | 2 w/ Local Edition 5 w/ Worldwide Edition |
+|                 Threat Prevention                 |        ❌         |        ✔         |                     ✔                     |                     ✔                     |
+|                   URL Filtering                   |        ✔         |        ✔         |                     ✔                     |                     ✔                     |
+|                   DNS Security                    |        ✔         |        ✔         |                     ❌                     |                     ✔                     |
+|                     WildFire                      |        ❌         |        ✔         |                     ❌                     |                     ✔                     |
+
+
+### "Are you a global or regional organization?"
+
+  
+Prisma Access offers optimized performance from more than 100 locations globally. Customers have two choices for Prisma Access service connections:
+
+- **Local:** Customers can choose up to five geographically proximate locations. 
+
+- **Worldwide:** Users can log in from any of active Prisma Access locations.
+
+
+### "Do you need additional capabilities?"
+
+There are optional add-ons to Prisma Access that may benefit your customer.
+
+- Interconnect 
+	- User to branch and branch to branch access
+
+- Additional Service Connections
+	- Service connections to private apps
+
+- ADEM
+	- User experience monitoring and management
+
+- NG-CASB
+	- Advanced SaaS security
+
+- IoT
+	- IoT Device Discovery, risk assessment, and security
+
+- SD-WAN
+	- Branch transformation
+

@@ -166,3 +166,82 @@ The Application data and Network metrics are combined using Prisma SD-WAN in rea
 All this combines into intelligent path selections and continual optimization. 
 
 Finally SD-WAN brings in [[CloudBlades]] as a scalable API platform to simplify programming integration with cloud services. 
+
+
+---
+
+# Why do traditional methods fall short?
+
+- ### Packet Based
+
+	- Legacy SD-WAN solutions are built using Layer 3 packet-based policies, with limited app-based networking policies and app visibility, making it challenging for network teams to deliver application SLAs.
+
+- ### Manual Operations
+
+	- Legacy SD-WAN solutions do not scale well and require manual interventions, especially for “day 2” operations, creating substantial administrative overhead for networking and ops teams.
+
+- ### Bolt-On Branch
+
+	 - Delivering essential branch services such as security and visibility, require bolt-on point-products to be deployed and managed, adding cost and complexity to the organization.
+
+
+
+---
+
+# SD-WAN Delivered Benefits
+
+-  **a ROI of up to 243%**
+
+- **reduce enterprise WAN costs by up to 82%**
+
+- **Simplify network operations by leveraging ML to eliminate up to 99% of network trouble tickets**
+
+- Enable a 10x increase in WAN bandwidth for a lower cost than legacy solutions.
+
+- ## App-Defined
+
+	- Deep application visibility with Layer 7 intelligence that delivers SLAs for all apps. 
+
+- ## Autonomous:
+
+	- automated operations and problem avoidance using machine learning and data science. 
+
+- ## Cloud-delivered branch
+
+	- Reduce costs as branch security and networking are delivered from the cloud. 
+
+
+---
+
+# SD-WAN Shareholders, Target
+
+
+- CIO
+- Head of Infrastructure 
+- Network Architect 
+- Network Engineer
+
+
+### Can be categorized into 3 major use cases
+
+- **router modernization**
+	- CIO
+		- MPLS costs
+		- Traffic Backhauling
+		- Looking for better ROIs
+
+- **cloud-delivered branch**
+	- Network Architect
+		- enable branches and end-users to gain access SaaS from anywhere
+		- Current solution uses too much hardware
+		- Very difficult to scale
+
+- **automated networking operations**
+	- Head of Infrastructure 
+		- current solution is multiple point products
+		- lack of integration
+		- manual operations
+		- Needs simplification
+		- Wants lessened trouble tickets
+		- Needs automation
+

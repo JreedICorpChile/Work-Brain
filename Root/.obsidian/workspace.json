@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ceedcbd976cae6b9",
+            "id": "6efa168c8cd69dc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prisma SASE/ZTNA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3d0a8181f2dea56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Infocorp Analysis/Assets/Infocorp_analysis_page1.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ad40044a1f985ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prisma SASE/Prisma Access.md",
+                "file": "Misc/HTML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ae9dc5036ea2ae67",
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prisma SASE/Prisma Access.md",
+                "file": "Misc/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prisma SASE/Prisma Access.md",
+                "file": "Misc/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prisma SASE/Prisma Access.md"
+                "file": "Misc/HTML.md"
               }
             }
           },
@@ -178,10 +156,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad40044a1f985ab6",
+  "active": "6efa168c8cd69dc8",
   "lastOpenFiles": [
-    "Prisma SASE/ZTNA.md",
     "Prisma SASE/Prisma Access.md",
+    "Prisma SASE/Prisma SD-WAN.md",
+    "Misc/HTML.md",
+    "Competitors (Zscaler, Cisco, Netskope, Fortinet).md",
+    "Misc",
+    "Prisma SASE/Drawing 2024-08-21 18.48.25.excalidraw.md",
+    "Prisma SASE/ZTNA.md",
+    "Prisma SASE/Drawing 2024-08-21 18.27.23.excalidraw.md",
     "Prisma SASE/Prisma Access Browser.md",
     "Infocorp Analysis/Assets/Infocorp_analysis_page1.excalidraw.md",
     "Infocorp Analysis/Assets/Infocorp_analysis_page_2.excalidraw.md",
@@ -194,9 +178,7 @@
     "Infocorp Analysis/Assets/Pasted Image 20240819171036_778.png",
     "Linux_FS.excalidraw.md",
     "Prisma SASE/SD-WAN.canvas",
-    "Untitled.md",
     "Prisma SASE/SASE Clients.md",
-    "Prisma SASE/Prisma SD-WAN.md",
     "Prisma SASE/Competitors in SD-WAN.md",
     "Prisma SASE/CloudBlades.md",
     "Prisma SASE",
